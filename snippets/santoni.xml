@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="Jabiyeff"
+           fetch="https://github.com/Jabiyeff/" />
+
+  <!-- Special -->
+  <project path="device/xiaomi/santoni" name="device-santoni" remote="Jabiyeff" revision="crDroid" />
+  <project path="vendor/xiaomi" name="vendor-santoni" remote="Jabiyeff" revision="ten" />
+  <project path="kernel/xiaomi/msm8937" name="msm-4.9-santoni-10" remote="Jabiyeff" revision="master" />
+</manifest>
