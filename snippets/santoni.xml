@@ -7,7 +7,7 @@
   <!-- Special -->
   <project path="device/xiaomi/santoni" name="device-santoni" remote="Jabiyeff" revision="crDroid" />
   <project path="vendor/xiaomi" name="vendor-santoni" remote="Jabiyeff" revision="ten" />
-  <project path="kernel/xiaomi/msm8937" name="msm-4.9-santoni-10" remote="Jabiyeff" revision="master" />
+  <project path="kernel/xiaomi/msm8937" name="msm-4.9-santoni-kud" remote="Jabiyeff" revision="eleven" />
   <project path="vendor/lawnchair" name="platform_vendor_lawnchair" remote="Jabiyeff" revision="ten" />
   <project path="hardware/qcom-caf/msm8996/audio" name="android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="Jabiyeff" revision="lineage-17.1-caf-msm8996" />
   <project path="hardware/qcom-caf/msm8996/display" name="android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" remote="Jabiyeff" revision="lineage-17.1-caf-msm8996" />
